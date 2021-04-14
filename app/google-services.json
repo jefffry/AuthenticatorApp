@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778879726879",
+    "project_id": "authenticatorapp-5b940",
+    "storage_bucket": "authenticatorapp-5b940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778879726879:android:c4496880b2fa14169dec2a",
+        "android_client_info": {
+          "package_name": "au.edu.jcu.cp3406.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778879726879-65buiq62ki017m4uegrgpg623pqgcdkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg2BN8SU-oEfuTjOKSzlJ7E-6zCNHH67M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778879726879-65buiq62ki017m4uegrgpg623pqgcdkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
